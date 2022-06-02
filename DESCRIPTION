@@ -1,0 +1,11 @@
+Package: dogsTutorial
+Title: Functions about dogs
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nicola", "Walker", , "nicola.walker@cefas.co.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-9778-0220"))
+Description: This package provides a set of functions that illustrate how dogs truly are man's best friend.
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
