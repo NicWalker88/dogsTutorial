@@ -1,5 +1,6 @@
 ---
 title: "dogsTutorial: An R package test"
+author: "Nicola D. Walker"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{dogsTutorial: An R package test}
@@ -14,6 +15,27 @@ knitr::opts_chunk$set(
 )
 ```
 
+## Introduction
+
+dogsTutorial is a practice package before I let myself loose on a real one!
+
+## Installing dogsTutorial
+
 ```{r setup}
 library(dogsTutorial)
 ```
+
+## Functions
+
+dogsTutorial has one function which suggests dogs are better than cats.
+
+```{r example}
+dogs_over_cats(agree=TRUE)
+dogs_over_cats(agree=FALSE)
+```
+
+Of course, as a cat owner, I disagree with this!
+
+## Conclusion
+
+Hoorah, I made my first vignette!
