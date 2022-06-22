@@ -8,8 +8,16 @@
 \description{
 This package provides a set of functions that illustrate how dogs truly are man's best friend.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/NicWalker88/dogsTutorial}
+  \item Report bugs at \url{https://github.com/NicWalker88/dogsTutorial/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: Nicola nicola.walker@cefas.co.uk Walker (\href{https://orcid.org/0000-0002-9778-0220}{ORCID})
+\strong{Maintainer}: Nicola Walker \email{nicola.walker@cefas.co.uk} (\href{https://orcid.org/0000-0002-9778-0220}{ORCID})
 
 }
 \keyword{internal}
